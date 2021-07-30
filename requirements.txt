@@ -1,0 +1,9 @@
+jupyter
+keras == 2.4.3
+tensorflow == 2.5.0
+pandas
+numpy
+matplotlib
+scipy
+tqdm
+requests
